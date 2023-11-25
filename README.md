@@ -4,7 +4,7 @@
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/saviya55/Saviya-Md/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/saviya55/Saviya-Md/fork"><img align="center" src="[https://telegra.ph/file/3514997e86c4bb12d8f67.png](https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white)" alt="Fork and deploy" height="35" width="155" /></a>
 
 # 
 
