@@ -6,8 +6,8 @@
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "pm2 start lib/client.js --deep-monitoring --attach --name Ewing",
-    "stop": "pm2 stop Ewing"
+    "start": "pm2 start lib/client.js --deep-monitoring --attach --name Saviya",
+    "stop": "pm2 stop Saviya"
   },
   "author": "Vajira/Saviya",
   "dependencies": {
