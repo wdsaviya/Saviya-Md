@@ -236,14 +236,14 @@ cmd({
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by EXCEL.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
-DARK EWINGS 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅\nHᴇʟʟᴏ.....👋\nI'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗\n\n⚠️ OWNER 🐼\n01. VAJIRA MD\n02. CYBER AMDA\n\n
+SAVIYA MD 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅\nHᴇʟʟᴏ.....👋\nI'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗\n\n⚠️ OWNER 🐼\n01. VAJIRA MD\n02. SAVIYA MD\n\n
 *📍Version:-* _0.0.7_
 *🕐Uptime:-* _${runtime(process.uptime())}_
 *👤Owner:-* _${Config.ownername}_
 *📌Branch:-* _${Config.BRANCH}_
 ━━✥◈✥━━\n
 ┌───────────────────────
-├ ⚙️ BOT  DEPLOY*➤ https://github.com/KING-AMDA-MD/DARK-EWING-MD/tree/main
+├ ⚙️ BOT  DEPLOY*➤ https://github.com/saviya55/Saviya-Md/tree/main
 ├───────────────────────
 │ ✆ MESSAGE  INBOX OWNER
 └──────────────────────
