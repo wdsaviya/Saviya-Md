@@ -21,9 +21,9 @@ Secktor.cmd({
         async(Void, citel) => {
             const { commands } = require('../lib');
             let str = `
-┏━━━━━•❃〘 ` + fancytext(Config.ownername.split('DARK EWING')[0], 58) + ` 〙❃•━━━━━┓`
+┏━━━━━•❃〘 ` + fancytext(Config.ownername.split('SAVIYA-MD')[0], 58) + ` 〙❃•━━━━━┓`
             str += `
-┃ ⛥┏━━━━━•❃°EWING°•━━━━━•❃°•°•      
+┃ ⛥┏━━━━━•❃°SAVIYA-MD°•━━━━━•❃°•°•      
 •͙͙✧⃝•͙ User: ${citel.pushName}
 •͙͙✧⃝•͙ Theme: ${tlang().title}
 •͙͙✧⃝•͙│ Prefix: ${prefix}
