@@ -1,7 +1,7 @@
 ## COMMING SOON SAVIYA MD BOT 💘🇱🇰
 <p align="center"> 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Saviya+Md+;Created+By+SAVIYA" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Saviya+Md+Wa+.+Bot;Created+By+SAVIYA" alt="Typing SVG" /></a>
 </p> 
 
 
