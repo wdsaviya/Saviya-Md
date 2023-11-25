@@ -1,5 +1,5 @@
 {
-  "name": "Dark-Ewing-Md",
+  "name": "Saviya-Md",
   "version": "0.0.7",
   "description": "Multi device whatsapp bot by Dark ewing team.",
   "main": "lib/client.js",
@@ -9,7 +9,7 @@
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name Ewing",
     "stop": "pm2 stop Ewing"
   },
-  "author": "Vajira/Amda",
+  "author": "Vajira/Saviya",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KING-AMDA-MD/DARK-EWING-MD.git"
+    "url": "git+https://github.com/saviya55/Saviya-Md.git"
   },
   "bugs": {
-    "url": "https://github.com/KING-AMDA-MD/DARK-EWING-MD/issues"
+    "url": "https://github.com/saviya55/Saviya-Md/issues"
   },
-  "homepage": "https://github.com/KING-AMDA-MD/DARK-EWING-MD#readme"
+  "homepage": "https://github.com/saviya55/Saviya-Md#readme"
 }
