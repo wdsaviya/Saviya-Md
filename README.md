@@ -4,6 +4,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Saviya+Md+Wa+.+Bot;Created+By+SAVIYA" alt="Typing SVG" /></a>
 </p> 
 
+<p align="center"> 
+<img src="https://telegra.ph/file/1e63f0ee90304a12767c7.jpg" width="300" height="300"/>
+</p>
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
