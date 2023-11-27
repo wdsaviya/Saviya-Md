@@ -177,7 +177,7 @@ cmd({
 	if(apkSize > 150) return citel.send(`❌ File size bigger than 200mb.`);
        const url = data.dllink;
 	 let 
-         inf ="*📦SAVIYA-MD-APK-DL📦* "
+         inf +="*📦SAVIYA-MD-APK-DL📦* ";
 	
          inf +="*\n🕹App Name        :* " +data.name;
          inf +="\n*🌐App id         :* " +data.package;
