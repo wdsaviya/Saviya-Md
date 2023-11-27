@@ -2,14 +2,14 @@
 //---------------------------------------------------------------------------
 const Secktor = require('../lib');
 Secktor.cmd({
-    pattern: "ping",
+    pattern: "ping2",
     desc: "To check ping",
     category: "general",
     filename: __filename,
 },
 async (Void, citel) => {
     var initial = new Date().getTime();
-    const { key } = await Void.sendMessage(citel.chat, { text: '```Pinging from dark ewings```' });
+    const { key } = await Void.sendMessage(citel.chat, { text: '```Pinging from Saviya Md```' });
     var final = new Date().getTime();
 
     // Calculate the ping value in milliseconds
