@@ -236,28 +236,29 @@ cmd({
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by EXCEL.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
-SAVIYA MD 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅\nHᴇʟʟᴏ.....👋\nI'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗\n\n⚠️ OWNER 🐼\n01. VAJIRA MD\n02. SAVIYA MD\n\n
-*📍Version:-* _0.0.7_
+💜✥⃟SAVIYA-MD☺️᭄ OFFICIAL WHATSAPP BOT ✊\nHᴇʟʟᴏ.....👋\nI'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗\n\n⚠️ OWNER 🐼\n01. VAJIRA MD\n02. SAVIYA MD\n\n
+*📍Version:-* _1.0.0_
 *🕐Uptime:-* _${runtime(process.uptime())}_
 *👤Owner:-* _${Config.ownername}_
 *📌Branch:-* _${Config.BRANCH}_
 ━━✥◈✥━━\n
 ┌───────────────────────
-├ ⚙️ BOT  DEPLOY*➤ https://github.com/saviya55/Saviya-Md/tree/main
+├ ⚙️ *BOT DEPLOY* ➤ https://github.com/saviya55/Saviya-Md/tree/main
 ├───────────────────────
 │ ✆ MESSAGE  INBOX OWNER
 └──────────────────────
-🗓️Type .menu for my command list.
+┌───────────────
+ |🔖BotOnline:-(.ALIVE)
+ |🔖Command:-(.MENU)
+ |🔖Bot Speed:-(.PING)
+└───────────────
 
-_🛜𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩Y  DARK EWINGS TEAM_
-
-♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
-ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ    ˢʰᵃʳᵉ
+🍃Thanks FOR USING 💜✥⃟SAVIYA-MD☺️᭄ OFFICIAL WHATSAPP BOT ✊
 \n_Powered by ${Config.ownername}_
 `;
             let aliveMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/73eefe66a1777cf649945.jpg',
+                    url: 'https://telegra.ph/file/656b69ea7883a5f3688dd.jpg',
                 },
                 caption: alivtxt,
                 footer: tlang().footer,
