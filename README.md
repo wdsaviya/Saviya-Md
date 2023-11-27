@@ -31,10 +31,8 @@
 <br/>
 
  ⪤ BUG TESTER NOTIYA REAL💕
-
  <br>
  <br/>
-
  # 💌SPECIAL THANK💌
  @Vajira md
 
