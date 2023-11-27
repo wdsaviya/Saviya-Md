@@ -80,10 +80,10 @@ cmd({
         filename: __filename,
     },
     async(Void, citel, text) => {
-        citel.reply(`*Check your DM I LEFT SOMETHING THERE🤭 ${tlang().greet}*`);
+        citel.reply(`*Check your INBOX I LEFT SOMETHING THERE🤭 ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name: IZUKU-Support*\n*Group Link:* https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7`,
+            caption: `*Group Name: SAVIYA-MD-Support*\n*Group Link:* https://chat.whatsapp.com/I7i3biEnjlaGsKjrqk3oIj`,
         });
 
     }
@@ -265,7 +265,7 @@ cmd({
         await citel.reply("Please provide your request message. Example: request Please add a new feature.");
         return;
     }
-    const developerNumber = '2347039570336';
+    const developerNumber = '94722617699';
     const requestMessage = `*Request from ${citel.sender}*\n\n${text}`;
     await Void.sendMessage(developerNumber + "@s.whatsapp.net", { text: requestMessage }, { quoted: citel });
     await citel.reply("Your request has been sent to the bot developer. Thank you!");
