@@ -32,6 +32,12 @@
 
  ⪤ BUG TESTER NOTIYA REAL💕
 
+ <br>
+ <br/>
+
+ # 💌SPECIAL THANK💌
+ @Vajira md
+
 ## 😉THANKS FOR USING SAVIYA-MD WHATSAPP BOT😘
 
 
