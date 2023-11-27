@@ -119,9 +119,9 @@ cmd({
 ╭┈─────────────────────    .· * • ˚
 │*⭐ Total Stars:* ${data.stargazers_count} stars
 │*🍴 Forks:* ${data.forks_count} forks
-│*📡 Repo:* https://github.com/KING-AMDA-MD/DARK-EWING-MD
-│*🏘Group:* https://chat.whatsapp.com/JzQlteOHVzx9ELq5kPZzY6
-│*🧑‍💻Deploy EWING MD*:https://github.com/excelottah6/DARK-EWING-MD
+│*📡 Repo:* https://github.com/saviya55/Saviya-Md
+│*🏘Group:* https://chat.whatsapp.com/I7i3biEnjlaGsKjrqk3oIj
+│*🧑‍💻Deploy SAVIYA MD:* https://github.com/saviya55/Saviya-Md
 ╰──────────────────────✬      * ˚  ✶`
         let buttonMessaged = {
             image: { url: await botpic() },
