@@ -155,7 +155,7 @@ cmd({
             desc: "Downloads apks  .",
             category: "downloader",
 	    react: "📥",
-	    react2: "📤",
+	    react: "📤",
             filename: __filename,
             use: '<add sticker url.>',
         },
@@ -176,8 +176,9 @@ cmd({
 	const apkSize = parseInt(data.size);
 	if(apkSize > 150) return citel.send(`❌ File size bigger than 200mb.`);
        const url = data.dllink;
-	 let  inf  ="\n*📦SAVIYA-MD-APK-DL📦* ";
-	 inf  ="*🕹App Name :* " +data.name;
+	 let 
+         inf ="*📦SAVIYA-MD-APK-DL📦* ";
+	 inf +="*\n🕹App Name :* " +data.name;
          inf +="\n*🌐App id        :* " +data.package;
          inf +="\n*⬆️Last Up       :* " +data.lastup;
          inf +="\n*📥App Size     :* " +data.size;
