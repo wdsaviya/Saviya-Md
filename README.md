@@ -28,8 +28,8 @@
 
 ## DEPLOY IN REPLIT
 
-<a href='https://github.com/saviya55/Saviya-Md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
- 
+<a href='https://bit.ly/Saviya-md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
+
 <br>
 <br/>
 
