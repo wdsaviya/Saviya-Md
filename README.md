@@ -24,8 +24,10 @@
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/saviya55/Saviya-Md)
- 
+ <br </br>
+## DEPLOY IN REPLIT
 
+<a href='https://github.com/saviya55/Saviya-Md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
  
 <br>
 <br/>
