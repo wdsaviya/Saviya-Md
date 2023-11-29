@@ -33,6 +33,22 @@
 <br>
 <br/>
 
+Copy the JSON down and paste in replit then fill the vars
+
+```
+{
+  "SESSION_ID": "ID-Here",
+  "OWNER_NUMBER": "91xxxxxxxxxx",
+  "OWNER_NAME": "EREN JEAGER",
+  "OPENAI_API_KEY": "null",
+  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
+  "PACK_INFO": "Sam;Pandey",
+  "PREFIX": "."
+   
+}
+```
+
+
  ⪤ BUG TESTER NOTIYA REAL💕
  <br>
  <br/>
