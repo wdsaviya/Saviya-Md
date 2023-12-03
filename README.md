@@ -43,8 +43,13 @@ Copy the JSON down and paste in replit then fill the vars
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
   "PACK_INFO": "Vajira;Saviya",
-  "PREFIX": "."
-   
+  "PREFIX": ".",
+  "AUTO_READ_STATUS": "true",
+  "AUTO_REACTION": "true",
+  "ALIVE_MESSAGE": "Alive message for bot",  
+  "DISABLE_PM": "true/false",
+  "LEVEL_UP_MESSAGE": "true",
+  "WORKTYPE": "public",
 }
 ```
 
