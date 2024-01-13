@@ -18,7 +18,7 @@
 
 ## QR SCAN 
  
-[![QR SCAN 2](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@savigaming2009/DARK-EWING-BOT-QR)
+[![QR SCAN 2](SCAN QR 1)](https://saviya-md-qr.vercel.app/)
 
 
 ## DEPLOY IN HEROKU
