@@ -18,7 +18,7 @@
 
 ## QR SCAN 
  
-[![QR SCAN 2](SCAN QR 1)](https://saviya-md-qr.vercel.app/)
+[(SCAN QR 1)](https://saviya-md-qr.vercel.app/)
 
 
 ## DEPLOY IN HEROKU
