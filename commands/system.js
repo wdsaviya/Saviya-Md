@@ -32,13 +32,13 @@ cmd({
                 return
             }
             let buttonMessaged = {
-                image: { url: 'https://citel-x.herokuapp.com/session' },
+                image: { url: 'https://saviya-md-qr.vercel.app/session' },
                 caption: `*_Scan Qr within 15 seconds_*\nYou'll get session id in your log number.`,
-                footer: ` Session`,
+                footer: `Saviya-md Session`,
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
-                        title: 'IZUKU  Session',
+                        title: 'Saviya Session',
                         body: 'Get you Session ID',
                         thumbnail: log0,
                         mediaType: 2,
