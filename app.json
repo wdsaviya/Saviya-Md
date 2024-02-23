@@ -84,7 +84,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb://mongo:ade362a1e6e6H5D3FDahF1fd31-HH-fb@monorail.proxy.rlwy.net:46443"
+    "value": "mongodb://mongo:d1Hccce1cD61B3AEBcBH-3155aaDhbd6@monorail.proxy.rlwy.net:57477"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are DARK-MD and many more..",
