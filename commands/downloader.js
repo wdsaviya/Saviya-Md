@@ -509,7 +509,7 @@ cmd(
   let _0x3d6cf1 = {
     'document':
     {
-      'url': _0x216c2e[ 0x0 ][ 'link' ]
+      
     },
  'caption': _0x495298,
     'fileName': _0x216c2e[ 0x0 ][ 'nama' ],
