@@ -114,7 +114,7 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/excelottah6/DARK-EWING-MD')
+        let { data } = await axios.get('https://api.github.com/repos/excelottah6/Saviya-Md')
         let cap = `Hey ${citel.pushName}\n
 ╭┈─────────────────────    .· * • ˚
 │*⭐ Total Stars:* ${data.stargazers_count} stars
@@ -160,12 +160,12 @@ cmd({
         let ter = `
 ㅤ ────────────────────────── .°୭̥ ❁ 	
 ╰─➤｡･:˚:✧｡ *${tlang().title}* ｡･:˚:✧｡
-╰─➤ *🌟Description:* A WhatsApp bot with rich features, build in NodeJs to make your WhatsApp enjoyable.
+╰─➤ *🌟Description:* A WhatsApp bot with rich features built in NodeJs to make your WhatsApp enjoyable.
 ╰─➤ *⚡️Speed:* ${latensie.toFixed(4)} ms
 ╰─➤ *⏱Uptime:* ${runtime(process.uptime())}
 ╰─➤ *📡Version:* 0.0.8
 ╰─➤ *👤Owner:*  ${Config.ownername}
-╰─➤ *Powered by ${tlang().title}*
+╰─➤ *🪀🚀POWERD BY SAVIYA-MD🪀🚀*
 °୭̥ ❁ ───────────────────────── .°୭̥ ❁ `;
         let buttonMessaged = {
             image: {
