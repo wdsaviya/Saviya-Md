@@ -203,7 +203,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
     cmd({
-        pattern: "ujid",
+        pattern: "jid",
         desc: "get jid of all user in a group.",
         category: "owner",
         filename: __filename,
@@ -790,7 +790,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
 cmd({
-            pattern: "getjids",
+            pattern: "alljid",
             desc: "Sends chat id of every groups.",
             category: "group",
             filename: __filename,
@@ -941,7 +941,7 @@ cmd({
 
     //---------------------------------------------------------------------------
 cmd({
-  pattern: "listonline",
+  pattern: "onlinelist",
   desc: "List all active members of the group",
   category: "group",
 }, async (Void, citel, match) => {
