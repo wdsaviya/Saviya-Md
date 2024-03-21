@@ -511,7 +511,6 @@ cmd(
     {
       'url': _0x216c2e[ 0x0 ][ 'link' ]
     },
-    'caption': _0x495298,
     'mimetype': _0x216c2e[ 0x0 ][ _0x4e2a3d( 0x240 ) ]
   };
   return await _0x8a2acc[ _0x4e2a3d( 0x2aa ) ]( _0x426c45[ 'chat' ], _0x3d6cf1 );
