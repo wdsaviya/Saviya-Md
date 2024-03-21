@@ -114,7 +114,7 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/excelottah6/Saviya-Md')
+        let { data } = await axios.get('https://api.github.com/repos/saviya55/Saviya-Md')
         let cap = `Hey ${citel.pushName}\n
 ╭┈─────────────────────    .· * • ˚
 │*⭐ Total Stars:* ${data.stargazers_count} stars
@@ -208,3 +208,52 @@ return citel.reply(str)
     
 }
 )
+
+//---------------------------------------------------------------------------
+cmd({
+        pattern: "system",
+        alias: ["about"],
+        desc: "To check bot status",
+        category: "general",
+        filename: __filename,
+    },
+    async(Void, citel) => {
+        const uptime = process.uptime();
+        timestampe = speed();
+        latensie = speed() - timestampe;
+        let ter = `
+ㅤ ────────────────────────── .°୭̥ ❁ 	
+╰─➤｡･:˚:✧｡ *${tlang().title}* ｡･:˚:✧｡
+╰─➤ *🌟Description:* A WhatsApp bot with rich features built in NodeJs to make your WhatsApp enjoyable.
+╰─➤ *⚡️Speed:* ${latensie.toFixed(4)} ms
+╰─➤ *⏱Uptime:* ${runtime(process.uptime())}
+╰─➤ *📡Version:* 0.0.8
+╰─➤ *👤Owner:*  ${Config.ownername}
+╰─➤ *🪀🚀POWERD BY SAVIYA-MD🪀🚀*
+°୭̥ ❁ ───────────────────────── .°୭̥ ❁ `;
+        let buttonMessaged = {
+            image: {
+                url: await botpic(),
+            },
+            caption: ter,
+            footer: tlang().footer,
+            headerType: 4,
+            contextInfo: {
+                externalAdReply: {
+                    title: tlang().title,
+                    body: `Bot-Status`,
+                    thumbnail: log0,
+                    mediaType: 2,
+                    mediaUrl: ``,
+                    sourceUrl: ``,
+                },
+            },
+        };
+        return await Void.sendMessage(citel.chat, buttonMessaged, {
+            quoted: citel,
+        });
+
+    }
+)
+
+//---------------------------------------------------------------------------
